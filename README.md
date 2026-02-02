@@ -1,4 +1,6 @@
 # Devops Lab
+[ppt](https://docs.google.com/presentation/d/1P0TOx7Cdnqe71IwByYgIaWsP7Zrfcpc-/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
+
 [Zero Session](https://docs.google.com/presentation/d/1KDOTi3SIh_ehW-YaWlqK6fTBJiga_OsG/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
 [Record Index Sheet AIML](https://drive.google.com/drive/folders/1GAmHOimE3vFHJqMFY2-NYWLYGCLHKcfS?usp=drive_link)
