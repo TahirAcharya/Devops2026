@@ -1,7 +1,5 @@
 # Devops Lab
-[ppt](https://docs.google.com/presentation/d/1P0TOx7Cdnqe71IwByYgIaWsP7Zrfcpc-/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
-[project marks](https://docs.google.com/spreadsheets/d/1EBGIEmgkzcIwE7EX8aX9532hNNVXw1OvJYuGard9y7E/edit?usp=sharing)
 
 [Zero Session](https://docs.google.com/presentation/d/1KDOTi3SIh_ehW-YaWlqK6fTBJiga_OsG/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
